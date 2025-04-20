@@ -1,0 +1,30 @@
+#ifndef __NXU_BSD_GCONFIG_H__
+#define __NXU_BSD_GCONFIG_H__
+
+#define BSD_PROJECT_NAME "${CMAKE_PROJECT_NAME}"
+
+/* 版本信息 */
+#define BSD_VERSION "${PROJECT_VERSION}"
+
+/* md5 信息 */
+#define BSD_COMMIT "${GIT_COMMIT_MD5}"
+
+/* 编译日期和时间 */
+#define BSD_DATETIME "${BUILDDATETIME}"
+
+/* 默认模型的路径 */
+#define BSD_MODEL_DEFAULT "models/bsd.weights"
+
+/* 是否要使用 GPU */
+#cmakedefine USE_GPU
+
+/* debug信息 */
+#cmakedefine BUILD_DEBUG
+
+/* 显示内部的处理时间 */
+#cmakedefine SHOW_TIME
+
+/* 显示内部的打印信息 */
+#cmakedefine SHOW_INFO
+
+#endif // __NXU_BSD_GCONFIG_H__

@@ -1,0 +1,72 @@
+source/include/nxu_bsd_gconfig.h
+
+# temp folders
+results/
+old/
+data/
+grasp/
+images/
+opencv/
+*-build/
+tmp-video-im
+.VSCodeCounter
+
+examples/build/
+tests/build/
+tools/build/
+*build*/
+temp_example/
+
+# OS Generated #
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+
+# CMake build directory
+build*/
+
+# Backup files.
+*~
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.pyc
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# MACOSX
+.DS_Store
+
+# IDE
+.vs
+.vscode
