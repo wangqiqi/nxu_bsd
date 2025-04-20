@@ -4,7 +4,19 @@
 > 环保领域：裸土检测
 > 
 
-![](assets/bsd.png)
+![](assets/bsd_1.jpg.jpg)
+
+![](assets/bsd_2.jpg.jpg)
+
+![](assets/bsd_3.jpg.jpg)
+
+![](assets/bsd_4.jpg.jpg)
+
+![](assets/bsd_5.jpg.jpg)
+
+![](assets/bsd_6.jpg.jpg)
+
+![](assets/bsd_7.jpg.jpg)
 
 模型见： 
 [百度网盘](https://pan.baidu.com/s/1YcG0zW1YbWbaiOq_lGNO7g?pwd=8dve)
